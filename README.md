@@ -26,7 +26,9 @@ Visuellement, ca devrait aller, peut etre pas en responsive par contre
 
 Les menu de navigation sont vraiment pas opti pour le moment, tout comme l'interface en elle meme, j'ai encore bcp de mal de ce coté la.
 
-Disclaimer : Peut etre assez peu de recherche de documentation en ligne de mon coté (sauf pour le hover), mais je suis assez satisfait du résultat. 
+# Disclaimer 
+
+Peut etre assez peu de recherche de documentation en ligne de mon coté (sauf pour le hover), mais je suis assez satisfait du résultat. 
 
 Temps total du projet : 3 week end, j'estime environ à 35-45 heure pour l'instant (date 22/02/2021 1h31)
 
