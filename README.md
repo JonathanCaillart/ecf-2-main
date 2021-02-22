@@ -34,11 +34,15 @@ Temps total du projet : 3 week end, j'estime environ à 35-45 heure pour l'insta
 
 Difficultés rentcontrées : 
 
-- Je suis vraiment lent quand je suis bloquer sur un problème, et meme en général. 
+- Assez lent a démarer pour ma part
+
+- <edit> Pas assez d'utilisation réel de la puissance de bootstrap, merci fabrice qui m'a rappeler quelque fondamental impportant du framework ! 
 
 - Le github desktop a planté, a la date de la mise jour plus haut, si je n'ai pas réparé je vais devoir mettre le projet sur clé usb...
+  <edit : réparé et fonctionnel pour le moment (23/02/2021 00h31>
 
 - La classique séparation entre le back-end de l'entreprise et le Front-actuellement vu en cours, ce n'est pas nouveau, mais je pense que très bientot on va pouvoir lié les deux
+ <edit : Ca y est avec le php, ca commence a aller mieux>
 
  
  
