@@ -173,7 +173,7 @@
 .image_1 {
 
     background: url(image/blue-stripe-stoneware-plate.jpg) round  ;
-    height: 75%;
+    height: 100%;
     width: 60%;
     margin-left: 20%;
 
@@ -184,7 +184,7 @@
 .image_2 {
 
     background: url(image/hand-painted-blue-flat-dish.jpg) round ;
-    height: 75%;
+    height: 100%;
     width: 60%;
     margin-left: 20%;
 }
@@ -192,7 +192,7 @@
 .image_3 {
 
     background: url(image/heme.jpg) round ;
-    height: 75%;
+    height: 100%;
     width: 60%;
     margin-left: 20%;
 
@@ -201,7 +201,7 @@
 .image_4 {
 
     background: url(image/mashiko-yaki-green-small-plate.jpg) round;
-    height: 75%;
+    height: 100%;
     width: 60%;
     margin-left: 20%;
 }
@@ -209,7 +209,7 @@
 .image_5 {
 
     background: url(image/mashiko-yaki-indigo-small-plate.jpg) round;
-    height: 75%;
+    height: 100%;
     width: 60%;
     margin-left: 20%;
 }
@@ -217,7 +217,7 @@
 .image_6 {
 
     background: url(image/mashiko-yaki-saucer.jpg) round;
-    height: 75%;
+    height: 100%;
     width: 60%;
     margin-left: 20%;
 }
@@ -234,6 +234,7 @@
     text-align: center;
     letter-spacing: 1px;
     font-weight: 550;
+    overflow-wrap: break-word ;
     
 }
 
@@ -383,7 +384,7 @@ ul.breadcrumb li+li:before {
 
 .square_grid {
     margin-top: 6em;
-    margin-left: 27%;
+    margin-left: 20%;
     height: 50em;
     width: 55em;
 }
@@ -450,10 +451,15 @@ ul.breadcrumb li+li:before {
         height: 60em;
     }
 
+
     .pad_left_cart_details {
         padding-left:3em  !important;
     }
 
+    .little_x_icon_cart_details{
+        top: 1.5em;
+        left: 5.5em;
+    }
 
     .media_show_svg {
         visibility: visible;
@@ -480,7 +486,7 @@ ul.breadcrumb li+li:before {
     .subprice_media
     {
         position: absolute !important;
-        margin-left: 19em;
+        text-align: right;
     } 
     
     .media_line{
@@ -491,7 +497,7 @@ ul.breadcrumb li+li:before {
     }
 
     .media_pos {
-        padding-left: 7em;
+        padding-left: 5em;
     }
 
     .detail_box2_checkout_cart{
@@ -501,6 +507,47 @@ ul.breadcrumb li+li:before {
     }
 
 
+    .text_title_cart{ 
+        font-size: 1.5em;
+    }
 
+    .media-row {
+
+        flex-wrap: wrap;
+        margin-right: -15px;
+        margin-left: -15px;
+        
+    }
+
+    .pad_left_counter {
+        padding-left: 0px !important;
+
+    }
+
+    .square {
+        margin-top: 1em;
+        margin-left: -3em;
+    }
+
+    .square_icon_minus_cart_details {
+        margin-top: 3em;
+    }
+
+    .square_icon_plus {
+        margin-top: 1em;
+    }
+
+    .text_title_cart_details{
+        font-weight: 600;
+        
+    }
+    
+
+    /* .media-col_plate_details{
+        flex-basis: 0;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        max-width: 47%;
+    } */
 
   }
